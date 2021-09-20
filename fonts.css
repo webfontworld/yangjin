@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'yangjin';
+    font-weight: normal; 
+    font-style: normal; 
+    src: url(https://cdn.jsdelivr.net/gh/webfontworld/Jalnan/yangjin.woff) format('woff');
+    font-display: swap;
+}
