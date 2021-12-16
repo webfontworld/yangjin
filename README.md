@@ -5,14 +5,14 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'GowunBatang';
-    font-weight: 400;
+    font-family: 'YangJin';
+    font-weight: normal;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunBatangRegular.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunBatangRegulareot?#iefix') format('embedded-opentype'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunBatangRegular.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunBatangRegular.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/webfontworld/yangheeryu/GowunBatangRegular.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangjin/YangJin.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/yangjin/YangJin?#iefix') format('embedded-opentype'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangjin/YangJin.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangjin/YangJin.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/webfontworld/yangjin/YangJin.ttf') format("truetype");
     font-display: swap;
 } 
 </pre>
